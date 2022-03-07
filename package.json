@@ -16,34 +16,19 @@
     "type": "git",
     "url": ""
   },
-  "keywords": [
-    "soft ui design system",
-    "bootstrap 5",
-    "design system",
-    "creative tim",
-    "html kit",
-    "html css kit",
-    "web kit",
-    "freebie",
-    "free bootstrap kit",
-    "css3 kit",
-    "bootstrap design system",
-    "frontend",
-    "responsive bootstrap kit"
-  ],
+  "keywords": [],
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": ""
-  },
-  "devDependencies": {
+  "bugs": {},
+  "homepage": "",
+  "dependencies": {
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.1",
+    "gulp-autoprefixer": "^8.0.0",
     "gulp-clean": "^0.4.0",
     "gulp-install": "^1.1.0",
-    "gulp-sass": "^4.1.0",
-    "gulp-sourcemaps": "^2.6.5",
-    "gulp-open": "^3.0.1"
-  },
-  "homepage": ""
+    "gulp-open": "^3.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "source-map-resolve": "^0.6.0"
+  }
 }
